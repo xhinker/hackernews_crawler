@@ -1,2 +1,2 @@
-# hackernews_crawler
-Collect hackernews data and dump to postgresql and mssql
+# hackernews data crawler
+Collect hackernews data and dump to postgresql, mssql and ElasticSearch
